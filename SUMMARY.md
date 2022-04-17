@@ -15,3 +15,10 @@
 * [🖥 AltServer](how\_to\_use\_altstore/altserver.md)
 * [🆔 App IDs](how\_to\_use\_altstore/app-ids.md)
 * [⚡ Appの有効化（無効化）](how\_to\_use\_altstore/appno.md)
+
+## Patreon
+
+* [🛠 Bata版機能](patreon/bata-ban-ji-neng/README.md)
+  * [🔗 Sources](patreon/bata-ban-ji-neng/sources.md)
+  * [🏎 AltJIT](patreon/bata-ban-ji-neng/altjit.md)
+* [Page 1](patreon/page-1.md)
