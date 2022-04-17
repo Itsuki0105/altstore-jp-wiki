@@ -13,4 +13,5 @@
 
 * [🛍 AltStore](how\_to\_use\_altstore/altstore.md)
 * [🖥 AltServer](how\_to\_use\_altstore/altserver.md)
-* [App IDs](how\_to\_use\_altstore/app-ids.md)
+* [🆔 App IDs](how\_to\_use\_altstore/app-ids.md)
+* [⚡ Appの有効化（無効化）](how\_to\_use\_altstore/appno.md)
