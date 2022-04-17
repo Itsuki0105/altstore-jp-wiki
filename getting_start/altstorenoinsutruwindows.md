@@ -80,6 +80,12 @@ iPhone(iPad)のホーム画面にAltStoreが表示されていない場合、デ
 「VPNとデバイス管理」の名称は、バージョンや環境によって変わりますが、通常は「設定」→「一般」の下部にあります。
 {% endhint %}
 
+{% hint style="info" %}
+もし、手順通りにやったのにiCloud not found やiTunes not foundが出た場合、手動でフォルダを指定してあげれば動作するかもしれません。
+
+やり方としては、〇〇 not foundのウィンドウ内の「Choose Files...」を選択し、C:¥Program Files(x86)¥Common Files¥Appleを選択の上、OKを押すと先に進むかもしれません。
+{% endhint %}
+
 Appを探したい場合は、ここからAltStoreでアプリを探す方法を確認してください。
 
 もし、トラブルなどがあればここからトラブルシューティングガイドをご覧ください。
