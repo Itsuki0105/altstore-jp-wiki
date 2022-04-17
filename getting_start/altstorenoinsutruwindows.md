@@ -86,6 +86,6 @@ iPhone(iPad)のホーム画面にAltStoreが表示されていない場合、デ
 やり方としては、〇〇 not foundのウィンドウ内の「Choose Files...」を選択し、C:¥Program Files(x86)¥Common Files¥Appleを選択の上、OKを押すと先に進むかもしれません。
 {% endhint %}
 
-Appを探したい場合は、ここからAltStoreでアプリを探す方法を確認してください。
+Appを探したい場合は、ここから[AltStoreでアプリを探す方法](../how\_to\_use\_altstore/altstore.md#browse)を確認してください。
 
-もし、トラブルなどがあればここからトラブルシューティングガイドをご覧ください。
+もし、トラブルなどがあればここから[トラブルシューティングガイド](toraburushtingu.md)をご覧ください。

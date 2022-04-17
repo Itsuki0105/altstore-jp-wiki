@@ -19,7 +19,7 @@ A. 以下の項目を確認してみてください
 * (Windowsの場合)AltServerを管理者として実行してください。
 * (Windowsの場合)iTunesとiCloudがMicrosoft Storeからダウンロードされている場合は一度アンインストールを行い、再度Appleから直接ダウンロードした最新のiTunesとiCloudのインストーラを使用してみてください。\
   [詳しい操作方法についてはここから確認できます。](altstorenoinsutruwindows.md#altstorewoinsutrusuruni)
-* まれに、正しい方法でインストールしているのにiCloud not foundやiTunes not found が出る場合があります。この場合は、〇〇 not foundのウィンドウ内の「Choose Files...」を選択し、C:¥Program Files(x86)¥Common Files¥Appleを選択の上、OKを押すと先に進むかもしれません。
+* まれに、正しい方法でインストールしているのにiCloud not foundやiTunes not found が出る場合があります。この場合は、〇〇 not foundのウィンドウ内の「Choose Files...」を選択し、C:¥Program Files(x86)¥Common Files¥Appleを選択の上、OKを押すと先に進むかもしれません（なお、Program Files(x86)は環境によって異なる場合があります。）
 
 ### サインイン
 

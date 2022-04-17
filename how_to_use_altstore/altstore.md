@@ -9,7 +9,7 @@ description: >-
 
 "News"タブは、主要なアプリの更新、今後実装の機能など、私たちからのすべてのニュースの更新を表示することができます。
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 ## Browse
 
@@ -17,13 +17,13 @@ description: >-
 
 アプリをタップして、アプリの説明やスクリーンショットを含む詳細ページを表示したり、<mark style="background-color:red;">FREE</mark>のボタンをタップすることでインストールを行うこともできます。
 
-![](<../.gitbook/assets/image (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 ## My Apps
 
 "My Apps"タブでは、AltStoreを利用してインストールしたAppを確認することができます。
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 AltStoreを使用してインストールしたAppは、7日後に署名の期限が切れてしまうため起動できなくなります。そのため、AltStoreは署名が切れる前にバックグラウンドで更新を行い、この問題が発生しないようにしていますが、"Refresh All"を押して、いつでも手動で更新を行うこともできます。
 
@@ -33,7 +33,7 @@ AltStoreを使用してインストールしたAppは、7日後に署名の期�
 
 "Settings"タブでは、AltStoreの設定を表示・変更できます。
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 #### ACCOUNT
 

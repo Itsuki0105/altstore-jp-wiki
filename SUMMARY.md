@@ -21,4 +21,9 @@
 * [🛠 Bata版機能](patreon/bata-ban-ji-neng/README.md)
   * [🔗 Sources](patreon/bata-ban-ji-neng/sources.md)
   * [🏎 AltJIT](patreon/bata-ban-ji-neng/altjit.md)
-* [Page 1](patreon/page-1.md)
+* [🗣 Discord](patreon/discord.md)
+* [🧸 Friend Zone](patreon/friend-zone.md)
+
+## more
+
+* [YouTube チュートリアル](more/youtube-chtoriaru.md)
