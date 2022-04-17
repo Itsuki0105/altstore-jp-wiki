@@ -12,3 +12,5 @@
 ## AltStoreの使用方法 <a href="#how_to_use_altstore" id="how_to_use_altstore"></a>
 
 * [🛍 AltStore](how\_to\_use\_altstore/altstore.md)
+* [🖥 AltServer](how\_to\_use\_altstore/altserver.md)
+* [App IDs](how\_to\_use\_altstore/app-ids.md)

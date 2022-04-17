@@ -1,0 +1,9 @@
+# 🖥 AltServer
+
+AltServerはAltStoreがAppをデバイスでサイドロードできるようにする、コンピュータ用のコンパニオンアプリケーションです。\
+AltStoreがAltServerを実行しているPCと同一のWi-Fiネットワーク上にいる限り（もしくはUSB経由でPCに直接接続されている限り）、AltStoreはAppをサイドロード・更新・アクティブ化・非アクティブ化を行えます。\
+AltServerは最初にAltStoreをインストールするためにも用いられており、AltStoreの署名の有効期限が切れた場合は、AltServerでAltStoreを再度インストールを行うことで手動で更新することができます。
+
+AltStoreは一週間を通してAppを自動的に更新しようとするため、AltStoreが自動的に更新できるようにPCの起動時にはAltServerを起動し、バックグラウンドで実行したままにしておくことをおすすめします。
+
+もし、AltServerの使用で問題が発生している場合は、[トラブルシューティング](../getting\_start/toraburushtingu.md)を確認してみてください。
